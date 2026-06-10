@@ -3,7 +3,7 @@
 This repository contains an end-to-end Machine Learning pipeline built to predict the presence of heart disease based on medical clinical metrics.
 
 ## 📊 Google Colab Notebook
-👉 [Click here to view the Google Colab Notebook](PASTE_YOUR_GOOGLE_COLAB_SHARE_LINK_HERE)
+👉 [Click here to view the Google Colab Notebook]([PASTE_YOUR_GOOGLE_COLAB_SHARE_LINK_HERE](https://colab.research.google.com/drive/13FWFWIR7o-W1e9TUVCsvvdmanKzTcCnP?usp=sharing))
 
 ## Dataset Source
 - [Kaggle Heart Disease Dataset](https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset)
